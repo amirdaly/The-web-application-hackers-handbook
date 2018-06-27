@@ -1,0 +1,15 @@
+<header class="hero is-info columns">
+    <div class="hero-body">
+        <div class="container">
+            <h1 class="title">
+              <a href="/The-web-application-hackers-handbook">
+                کتابچه دستی نفوذگر وب
+              </a>
+            </h1>
+            <h2 class="subtitle">راهنمایی از آنچه برای نفوذ به وب لازم دارید</h2>
+        </div>
+    </div>
+    <span class="sidebar_toggle">
+        <em class="open-icon"></em>
+    </span>
+</header>

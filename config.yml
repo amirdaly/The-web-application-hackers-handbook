@@ -1,0 +1,25 @@
+
+title: کتابچه دستی نفوذگر وب
+description: راهنمایی از آنچه برای نفوذ به وب لازم دارید
+
+author: amirdaly
+email: me@amirdaly.ir
+
+url: https://amirdaly.github.io/The-web-application-hackers-handbook
+root: /The-web-application-hackers-handbook/
+static: /static
+imageurl: /static/img
+permalink: :year/:month/:day/:title/
+
+
+default_markup: mmd
+
+post_num: all
+
+archive_post_num: all
+
+default_floor: book
+
+template: book
+
+lists:

@@ -1,0 +1,45 @@
+
+{{ IF IS_POST }}
+	{{ this_page_title = "$TITLE | $PostTITLE" }}
+{{ ELSE }}
+	{{ this_page_title = PageTITLE }}
+{{ END }}
+
+<!DOCTYPE html>
+<html lang="{{ SITE.language }}">
+<head>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-69680858-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-69680858-2');
+</script>
+
+<meta name="msvalidate.01" content="584FCFDB107AA46299F59A2F22EBDF34" />
+
+<title>{{ this_page_title }}</title>
+
+<meta charset="utf-8">
+<meta name="description" content="{{ DESCRIPTION }}">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{ TitleContent }}">
+<meta property="og:url" content="{{ URL }}">
+<meta property="og:site_name" content="{{ TITLE }}">
+<meta property="og:description" content="{{ HeadDesc | html }}">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="{{ TitleContent }}">
+<meta name="twitter:description" content="{{ HeadDesc | html | truncate(50) }}">
+
+  <link rel="short icon" href="{{ SITE.icon }}">
+  <link href="{{ MainSTATIC }}/node_modules/bulma-rtl/css/bulma-rtl.css" rel="stylesheet">
+  <link href="{{ MainSTATIC }}/book/style.css" rel="stylesheet">
+  <link href="{{ MainSTATIC }}/book/agate.css" rel="stylesheet">
+  <link href="https://cdn.rawgit.com/rastikerdar/sahel-font/v1.0.0-alpha13/dist/font-face.css" rel="stylesheet" type="text/css" />
+
+</head>
+<body>

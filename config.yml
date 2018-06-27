@@ -6,9 +6,9 @@ author: amirdaly
 email: me@amirdaly.ir
 
 url: https://amirdaly.github.io/The-web-application-hackers-handbook
-root: /The-web-application-hackers-handbook/
-static: /static
-imageurl: /static/img
+root: /The-web-application-hackers-handbook
+static: /The-web-application-hackers-handbook/static
+imageurl: /The-web-application-hackers-handbook/static/img
 permalink: :year/:month/:day/:title/
 
 

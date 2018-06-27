@@ -11,6 +11,7 @@ static: /static
 imageurl: /static/img
 permalink: :year/:month/:day/:title/
 
+publishDIR: docs
 
 default_markup: mmd
 

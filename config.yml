@@ -8,6 +8,8 @@ email: me@amirdaly.ir
 url: https://amirdaly.github.io/The-web-application-hackers-handbook/
 root: ./
 
+static: https://amirdaly.github.io/The-web-application-hackers-handbook/static
+
 imageurl: /static/img
 permalink: :year/:month/:day/:title/
 

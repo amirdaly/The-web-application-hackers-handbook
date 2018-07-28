@@ -7,7 +7,7 @@ email: me@amirdaly.ir
 url: https://amirdaly.github.io/the-web-application-hackers-handbook/
 root: /the-web-application-hackers-handbook
 language: Farsi
-icon: /static/img/mira.png
+
 
 
 permalink: chapter:chapter/lesson:part/:title/

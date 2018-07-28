@@ -15,7 +15,7 @@
   <h1 class="cover">{{ SITE.title }}</h1>
   <h2 class="cover">{{ SITE.description }}</h2>
 
-  <img class="cover" src="/images/cover.jpg">
+  <img class="cover" src="/the-web-application-hackers-handbook/images/cover.jpg">
 
   <div style="text-align:center">
     کتاب رایگان و آزاد، و در دست تکمیل است.

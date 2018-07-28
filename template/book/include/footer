@@ -14,17 +14,17 @@
                             <a href="#">مجوز انتشار</a>
                         </li>
                         <li>
-                            <a href="https://github.com/amirdaly/The-web-application-hackers-handbook/issues" target="_blank">گزارش مشکلات</a>
+                            <a href="https://github.com/amirdaly/the-web-application-hackers-handbook/issues" target="_blank">گزارش مشکلات</a>
                         </li>
                     </ul>
                 </div>
                 <div class="column">
                     <div class="footer-header">
-                    کتابچه دستی نفوذگر وب
+                    دفتر یادداشت هکرها: وب اپلیکیشن
                     </div>
                     <div class="socials">
-                      <a href="/The-web-application-hackers-handbook">
-                        <img class="cover" src="/The-web-application-hackers-handbook/images/cover-small.jpg">
+                      <a href="/the-web-application-hackers-handbook">
+                        <img class="cover" src="/the-web-application-hackers-handbook/images/cover-small.jpg">
                       </a>
                     </div>
                 </div>
@@ -34,8 +34,8 @@
             <div class="has-text-centered credit">
               <div>
               کتاب
-              <a href="https://github.com/amirdaly/The-web-application-hackers-handbook" target="_blank">
-              «کتابچه دستی نفوذگر وب»
+              <a href="https://github.com/amirdaly/the-web-application-hackers-handbook" target="_blank">
+              «دفتر یادداشت هکرها: وب اپلیکیشن»
               </a>
               با مجوز
               <a href="#" >

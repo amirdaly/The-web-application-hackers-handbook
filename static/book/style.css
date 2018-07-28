@@ -9,16 +9,16 @@
 @font-face{
 	font-family:Sahel;
 	font-weight:regular;
-	src:url(/laravel-0-to-60/static/font/sahel.woff)
+	src:url(/the-web-application-hackers-handbook/static/font/sahel.woff)
 }
 @font-face{
 	font-family:Sahel;
 	font-weight:700;
-	src:url(/laravel-0-to-60/static/font/sahel-bold.woff)
+	src:url(/the-web-application-hackers-handbook/static/font/sahel-bold.woff)
 }
 body, html{
 	font:16px/1.618 Sahel;
-	line-height: 1.6;
+	line-height: 1.85;
 	height: 100%;
 	-webkit-font-smoothing:antialiased;
 	-moz-osx-font-smoothing:grayscale;
@@ -50,6 +50,7 @@ img {
 #content{
 	color: #222;
 	text-align: justify;
+	padding-left: 5%;
 }
 header.hero .title{margin-bottom: 1em;}
 #content h1.list {font-size: 1.3em; color: #05d1b2; font-weight: 700; margin-bottom: 5px;}
@@ -88,7 +89,7 @@ header.hero .title{margin-bottom: 1em;}
 }
 
 .content-body h5::after {
-	content: url('/laravel-0-to-60/images/info.png');
+	content: url('/the-web-application-hackers-handbook/images/info.png');
 	font-weight: bold;
 	font-size: 40px;
 	color: #4a4a4a;
@@ -115,7 +116,7 @@ header.hero .title{margin-bottom: 1em;}
 
 .content-body h6::after {
 	content: '';
-	background-image: url('/laravel-0-to-60/images/comment.png');
+	background-image: url('/the-web-application-hackers-handbook/images/comment.png');
     background-size: 32px ;
 	font-weight: bold;
 	font-size: 10px;
